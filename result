@@ -1,0 +1,15 @@
+1.  name    Wixlar string
+2.  totalSupply    533000000000 uint256
+3.  decimals    2 uint8
+4.  version    H1.0 string
+5.  balanceOf   
+   _owner (address)
+   Query
+ balance uint256
+6.  symbol    WIX string
+7.  allowance   
+   _owner (address)
+, 
+   _spender (address)
+   Query
+ remaining uint256
